@@ -1,5 +1,8 @@
-# Transformer_BERT_Manual_Coding
-In this project I've tried to re-code and develop own transformer model.
+# Transformer_BERT_Experiment
+STATUS: In progress....
+
+In this project I've tried to re-code and fine tune transformer and BERT models for some
+interesting applications.
 
 The BERT model was proposed in BERT: 
 Pre-training of Deep Bidirectional Transformers for Language Understanding by Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. 
