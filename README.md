@@ -1,7 +1,7 @@
 # Transformer_BERT_Experiment
 STATUS: In progress....
 
-In this project I've tried to re-code and fine tune transformer and BERT models for some
+In this project I've tried to apply and fine tune transformer and BERT models for some
 interesting applications.
 
 The BERT model was proposed in BERT: 
