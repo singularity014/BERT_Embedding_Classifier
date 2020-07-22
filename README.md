@@ -1,4 +1,6 @@
 # Transformer_BERT_Experiment
+STATUS : In progress ... ( adding the Embedding part )
+
 BERT Embedding based model vs Non-BERT Embedding model comparison
 
 1) This repo gives a step by step guide of using BERT Style tokenizer and how it can be used for tasks like sentiment analysis with models like CNN, LSTM    etc. BERT has a unique way of tokenizing, and we could leverage similar tokenization technique to feed tokenized data to our traditional models.
